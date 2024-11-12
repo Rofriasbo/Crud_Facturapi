@@ -12,9 +12,10 @@
   "dependencies": {
     "apollo-server": "^3.13.0",
     "dotenv": "^16.4.5",
-    "facturapi": "^4.3.0",
+    "facturapi": "^4.4.0",
     "graphql": "^16.9.0",
     "mongodb": "^6.9.0",
-    "mongoose": "^8.7.2"
+    "mongoose": "^8.7.2",
+    "moongose": "^1.0.0"
   }
 }
